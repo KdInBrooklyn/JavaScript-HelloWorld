@@ -113,6 +113,54 @@ parseInt('123');
  *  atob(): Base64编码转为原来的编码
  * **/
 
+/** 对象是JavaScript的核心概念,也是最重要的数据类型. JavaScript的所有数据都可以被视为对象
+ *
+ *  所谓对象就是一种无序的数据集合,由若干个"键值对"(key-value)构成
+ *
+ * **/
+
+/**对象生成的三种方法**/
+var o1 = {};
+
+var o2 = new Object();
+
+var o3 = Object.create(Object.prototype);
+
+// 对象的所有键名都是字符串
+var o = {
+    'p': 'Hello World'
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
