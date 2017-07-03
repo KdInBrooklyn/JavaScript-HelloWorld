@@ -380,3 +380,12 @@ a ^= b, b ^= a, a ^= b;
 /** 强制转换主要指使用Number, String和Boolean三个构造函数, 手动将各种类型的值转换成数字, 字符串和布尔值
  *
  * **/
+
+/** JavaScript的原生错误类型
+ *  1. SyntaxError: 解析代码时发生的语法错误
+ *  2. RefrenceError: 引用一个不存在的变量时发生的错误
+ *  3. RangeError: 当一个值超出有效范围时发生的错误
+ *  4. TypeError: 变量或参数不是预期类型时发生的错误
+ *  5. 
+ *
+ * **/
